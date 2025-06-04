@@ -16,7 +16,7 @@
 </div>
 </a>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="50%">
   
 ### Others
 <a href="https://github.com/gintarela">
