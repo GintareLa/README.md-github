@@ -11,7 +11,7 @@
 ### Languages
 
 <a href="https://github.com/gintarela">
-<div align="center">
+<div style="text-align: center;">
        <img src="https://skillicons.dev/icons?i=js,html,css,&perline=4" /> 
 </div>
 </a>
@@ -20,19 +20,25 @@
   
 ### Others
 <a href="https://github.com/gintarela">
-<div align="center">
+    <div style="text-align: center;">
        <img src="https://skillicons.dev/icons?i=github,vscode,mysql,nodejs,react,bootstrap,&perline=4" /> 
-</div>
+    </div>
 </a>
+
 </td>
 </tr></table>
 
 ## Github Stats:
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/gintarela">
-                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gintarela&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+                <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gintarela&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
+</p>
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gintarela&theme=react-dark&hide_border=true" width="100%">
+
+</div>
 
 ## Connect with me:
 
