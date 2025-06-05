@@ -30,15 +30,15 @@
 
 ## Github Stats:
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/gintarela">
                 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gintarela&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
-<div align="right">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gintarela&theme=react-dark&hide_border=true" width="100%">
 
-</div>
+</div> -->
 
 ## Connect with me:
 
